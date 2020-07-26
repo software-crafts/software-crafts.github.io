@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Software Crafts</title>
-    <link>https://software-crafts.com/tags/</link>
+    <link>https://software-crafts.github.io/tags/</link>
     <description>Recent content in Tags on Software Crafts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,60 +10,60 @@
     <webMaster>contact@software-crafts.com (Software Crafters)</webMaster>
     <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://software-crafts.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://software-crafts.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>example</title>
-      <link>https://software-crafts.com/tags/example/</link>
+      <link>https://software-crafts.github.io/tags/example/</link>
       <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
       <author>contact@software-crafts.com (Software Crafters)</author>
-      <guid>https://software-crafts.com/tags/example/</guid>
+      <guid>https://software-crafts.github.io/tags/example/</guid>
       <description></description>
     </item>
     
     <item>
       <title>photoswipe</title>
-      <link>https://software-crafts.com/tags/photoswipe/</link>
+      <link>https://software-crafts.github.io/tags/photoswipe/</link>
       <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
       <author>contact@software-crafts.com (Software Crafters)</author>
-      <guid>https://software-crafts.com/tags/photoswipe/</guid>
+      <guid>https://software-crafts.github.io/tags/photoswipe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bigimg</title>
-      <link>https://software-crafts.com/tags/bigimg/</link>
+      <link>https://software-crafts.github.io/tags/bigimg/</link>
       <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
       <author>contact@software-crafts.com (Software Crafters)</author>
-      <guid>https://software-crafts.com/tags/bigimg/</guid>
+      <guid>https://software-crafts.github.io/tags/bigimg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>math</title>
-      <link>https://software-crafts.com/tags/math/</link>
+      <link>https://software-crafts.github.io/tags/math/</link>
       <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
       <author>contact@software-crafts.com (Software Crafters)</author>
-      <guid>https://software-crafts.com/tags/math/</guid>
+      <guid>https://software-crafts.github.io/tags/math/</guid>
       <description></description>
     </item>
     
     <item>
       <title>code</title>
-      <link>https://software-crafts.com/tags/code/</link>
+      <link>https://software-crafts.github.io/tags/code/</link>
       <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
       <author>contact@software-crafts.com (Software Crafters)</author>
-      <guid>https://software-crafts.com/tags/code/</guid>
+      <guid>https://software-crafts.github.io/tags/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://software-crafts.com/tags/markdown/</link>
+      <link>https://software-crafts.github.io/tags/markdown/</link>
       <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
       <author>contact@software-crafts.com (Software Crafters)</author>
-      <guid>https://software-crafts.com/tags/markdown/</guid>
+      <guid>https://software-crafts.github.io/tags/markdown/</guid>
       <description></description>
     </item>
     

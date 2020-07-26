@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>math on Software Crafts</title>
-    <link>https://software-crafts.com/tags/math/</link>
+    <link>https://software-crafts.github.io/tags/math/</link>
     <description>Recent content in math on Software Crafts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,15 +10,15 @@
     <webMaster>contact@software-crafts.com (Software Crafters)</webMaster>
     <lastBuildDate>Sun, 05 Mar 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://software-crafts.com/tags/math/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://software-crafts.github.io/tags/math/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Math Sample</title>
-      <link>https://software-crafts.com/post/2017-03-05-math-sample/</link>
+      <link>https://software-crafts.github.io/post/2017-03-05-math-sample/</link>
       <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
       <author>contact@software-crafts.com (Software Crafters)</author>
-      <guid>https://software-crafts.com/post/2017-03-05-math-sample/</guid>
+      <guid>https://software-crafts.github.io/post/2017-03-05-math-sample/</guid>
       <description>&lt;p&gt;KaTeX can be used to generate complex math formulas server-side.&lt;/p&gt;
 &lt;p&gt;$$
 \phi = \frac{(1+\sqrt{5})}{2} = 1.6180339887\cdots
